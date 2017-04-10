@@ -5,5 +5,6 @@ public class abacazi {
 		System.out.println("Finalmente consegui, posso ir comer?");
 		System.out.println("não pode");
 		System.out.println("Come enquanto joga!");
+		System.out.println("Claro!!!");
 	}
 }	
